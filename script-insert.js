@@ -1,5 +1,5 @@
 const form = document.querySelector("#form")
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbx400-OITHD696EM-oXbbKIR-wBQnInYb3mjze4gs7gABMFvQCp-KR01Xh_sKAh5Q3g9A/exec'
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbz-yMRRlPdzAfEp5jtjgs0Hbqt7cb-7voow1eWMkVw0HE89qZYnvNbtBgNiEFKUNNQU/exec'
 
     form.addEventListener('submit', e => {
       e.preventDefault()
